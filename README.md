@@ -37,6 +37,6 @@ I am a Software Engineering student currently in the final stages of my degree. 
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=aaandrangom&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=aaandrangom&theme=material-palenight)](https://github.com/valentinawerle)
+[![](https://github-readme-stats.vercel.app/api?username=aaandrangom&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/aaandrangom)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=aaandrangom&theme=material-palenight)](https://github.com/aaandrangom)
 </div>
